@@ -1,6 +1,6 @@
 name: Test
 version: 1.0
-main: me.ryandw11.test.Test
+main: main.java.me.ryandw11.test.Test
 author: Ryandw11
 description: Test
 api-version: 1.13

@@ -1,4 +1,4 @@
-package me.ryandw11.test;
+package main.java.me.ryandw11.test;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
